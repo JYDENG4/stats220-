@@ -15,7 +15,7 @@ You can find the code and the actual meme shown below
     robot <- image_read("https://github.com/afuh/rick-and-morty-api/blob/master/images/826.jpeg")
     rick <- image_read("https://github.com/afuh/rick-and-morty-api/blob/master/images/1.jpeg")
 
-    question <- "What is my purpose"
+    question <- "What is your purpose"
     answer <- "to pass stats220"
     image_annotate(rick, text = question, size = 50, color = "black", gravity = "southwest")
     image_annotate(robot, text = answer, size = 50, color = "black", gravity = "southwest")
