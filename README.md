@@ -1,6 +1,6 @@
 # stats220
 
-*This is my stats220 repo, where I will experiment, test, and have fun*
+*This is my stats220 repo, where I will experiment and have fun*
 
 If you are interested in my work or progress
 - Watch this repo
