@@ -12,4 +12,4 @@
 2. Piano
 
 Do not fork, submit pull requests, or God forbid issues. 
-**You are free to check out my [companion website](https://jydeng.github.io/stats220-/)**
+**You are free to check out my [companion website]( https://jydeng4.github.io/stats220-/)**
